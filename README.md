@@ -1,2 +1,2 @@
-# Clase36
-Clase36
+# C36 - Carreras de autos - Actividad del alumno
+Actividad del alumno 
